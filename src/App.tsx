@@ -1,10 +1,10 @@
 import './App.css';
-import Counter from './features/counter/Counter';
+import PostList from './features/posts/PostList';
 
 function App() {
   return (
     <>
-      <Counter></Counter>
+      <PostList />
     </>
   );
 }
